@@ -1,0 +1,42 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1,
+      "gauge": 1
+    },
+    {
+      "day": 2,
+      "id": 2,
+      "gauge": 1
+    },
+    {
+      "day": 3,
+      "gauge": 0,
+      "id": 3
+    }
+  ],
+  "words": [
+    {
+      "day": "1",
+      "eng": "hhii",
+      "kor": "ㅇㄴㅁㅇㅁㄴㅇㅇㄴㅁ",
+      "isDone": true,
+      "id": 15
+    },
+    {
+      "day": "2",
+      "eng": "hi",
+      "kor": "안녕",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "day": "3",
+      "eng": "dd",
+      "kor": "dd",
+      "isDone": false,
+      "id": 17
+    }
+  ]
+}
